@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SLtours</string>
+    <string name="sln">SRI LANKA CURRENT TIME</string>
+    <string name="slt">Time SL</string>
+    <string name="select">SELECT YOUR HOME TOWN</string>
+    <string name="country">Selected Country</string>
+    <string name="countrytime">selected country time</string>
+    <string name="differ">Time DIfferent </string>
+    <string name="btnback">home</string>
+
+    <string-array name="country_arrays">
+
+    <item>USD</item>
+
+    <item>BDT</item>
+
+    <item>BGN</item>
+
+    <item>BRL</item>
+
+    <item>CAD</item>
+
+    <item>CHF</item>
+
+    <item>INR</item>
+
+</string-array>
+</resources>

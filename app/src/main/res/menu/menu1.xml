@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item1id"
+        android:icon="@drawable/ic_wb_sunny_black_24dp"
+        android:title="weather"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/item2id"
+        android:icon="@drawable/ic_monetization_on_black_24dp"
+        android:title="money exchange"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/item5id"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="Time different"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/item4id"
+        android:title="Upload details"
+        />
+
+    <item
+        android:id="@+id/item3id"
+        android:title="Log out"
+        />
+</menu>

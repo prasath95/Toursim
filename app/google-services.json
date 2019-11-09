@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342481627053",
+    "firebase_url": "https://sltours-bb5f1.firebaseio.com",
+    "project_id": "sltours-bb5f1",
+    "storage_bucket": "sltours-bb5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342481627053:android:a228d42ae8ed932053a324",
+        "android_client_info": {
+          "package_name": "com.project.sltours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342481627053-vsqmclpmqi0ja2ev8nens20namd3ildf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.sltours",
+            "certificate_hash": "257fd785079d9aa8bdf0344bdeebff6272849a42"
+          }
+        },
+        {
+          "client_id": "342481627053-v1cp4e4rgj43u2frhvub4e32jn9okt7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3UdXik7tBB91mHCzPyg-FTM95k5LMu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342481627053-v1cp4e4rgj43u2frhvub4e32jn9okt7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
